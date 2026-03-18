@@ -1,1 +1,1 @@
-# Eternally
+# Unity用ファイルテンプレート
